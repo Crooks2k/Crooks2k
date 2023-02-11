@@ -1,4 +1,4 @@
-# ¡Bienvenidos a mi perfil de GitHub!
+# ¡Acerca de mi!
 
 <h1 align="center">Bienvenidos a mi perfil de GitHub!</h1>
 
@@ -36,7 +36,8 @@ Si deseas conocer más sobre mi trabajo o tienes alguna pregunta o propuesta de 
 
 ## Mi portafolio
 
-Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea en el siguiente enlace: https://daniel-veloza-portafolio.netlify.app/
+Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea en el siguiente enlace: <br> 
+https://daniel-veloza-portafolio.netlify.app/
 
 <hr>
 
