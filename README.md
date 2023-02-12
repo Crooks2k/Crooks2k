@@ -34,7 +34,7 @@ Si deseas conocer más sobre mi trabajo, puedes visitar <a href="https://daniel-
 
 Tambien puedes ponerte en contacto conmigo atravez de mis redes sociales: <br>
 
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/daniel-felipe-veloza-0a00b8208/" target="_blank">https://www.linkedin.com/in/daniel-felipe-veloza-0a00b8208/</a>
+- 💼 LinkedIn: <a href="www.linkedin.com/in/daniel-felipe-veloza" target="_blank">https://www.linkedin.com/in/daniel-felipe-veloza-0a00b8208/</a>
 - 💬 Discord: Crooks2k#1388
 <hr>
 
