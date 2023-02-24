@@ -30,18 +30,17 @@ Aquí podrás encontrar algunos de mis proyectos más destacados que demuestran 
 
 ## Contáctame
 
-Si deseas conocer más sobre mi trabajo, puedes visitar <a href="https://daniel-veloza-portafolio.netlify.app/" target="_blank">mi portafolio en línea</a><br>
-
 Tambien puedes ponerte en contacto conmigo atravez de mis redes sociales: <br>
+<br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-veloza)
 
-- 💼 LinkedIn: <a href="www.linkedin.com/in/daniel-felipe-veloza" target="_blank">https://www.linkedin.com/in/daniel-felipe-veloza-0a00b8208/</a>
-- 💬 Discord: Crooks2k#1388
 <hr>
 
 ## Mi portafolio
 
-Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea en el siguiente enlace: <br> 
-<a href="https://daniel-veloza-portafolio.netlify.app/" target="_blank">https://daniel-veloza-portafolio.netlify.app/</a>
+Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi portafolio en línea: <br> 
+<br>
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://daniel-veloza-portafolio.netlify.app/)
 
 <hr>
 
