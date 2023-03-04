@@ -32,7 +32,7 @@ Aquí podrás encontrar algunos de mis proyectos más destacados que demuestran 
 
 Tambien puedes ponerte en contacto conmigo atravez de mis redes sociales: <br>
 <br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-veloza)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/daniel-felipe-veloza/)
 
 <hr>
 
