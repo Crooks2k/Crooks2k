@@ -18,7 +18,6 @@ Como desarrollador, tengo experiencia en las siguientes tecnologías:
 - 💹 Node.js 
 - 🚀 Express 
 - 🗄️ MongoDB 
-- 💾 MySQL
 
 <hr>
 
