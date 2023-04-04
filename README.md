@@ -43,4 +43,11 @@ Además de mi perfil de GitHub, también puedes ver más de mi trabajo en mi por
 
 <hr>
 
+</p><br>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Crooks2k&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" alt="Crooks2k stats" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crooks2k&show_icons=true&theme=dracula&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en" width="350" >
+ </p>
+
+
 <h3 align="center">¡Gracias por visitar mi perfil de GitHub!</h3>
