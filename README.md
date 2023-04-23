@@ -12,7 +12,7 @@ Como desarrollador, tengo experiencia en las siguientes tecnologías:
 
 - 💻 HTML 
 - 🎨 CSS 
-- 🚀 JavaScript 
+- 🚀 JavaScript | TypeScript
 - ⚛️ React
 - 🔥 Bootstrap
 - 💹 Node.js 
