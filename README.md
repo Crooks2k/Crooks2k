@@ -2,6 +2,8 @@
 
 <h1 align="center">Bienvenidos a mi perfil de GitHub!</h1>
 
+![](https://komarev.com/ghpvc/?username=Crooks2k)
+
 Soy Daniel, un desarrollador web full stack apasionado por crear soluciones innovadoras en el mundo digital.
 
 <hr>
