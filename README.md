@@ -43,6 +43,12 @@ Como desarrollador tengo experiencia en las siguientes tecnologías de desarroll
 ### - OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/Crooks2k)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/Crooks2k)
+
+
+### - Cosas que estoy aprendiendo en la actualidad 🧠
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Crooks2k)
+[![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Crooks2k)
+
 <hr>
 
 <h3 align="center">¡Gracias por visitar mi perfil de GitHub!</h3>
