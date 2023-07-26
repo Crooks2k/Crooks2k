@@ -48,6 +48,7 @@ Como desarrollador tengo experiencia en las siguientes tecnologías de desarroll
 ### - Cosas que estoy aprendiendo en la actualidad 🧠
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/Crooks2k)
 [![django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/Crooks2k)
+[![azure](https://img.shields.io/badge/azure-black?style=for-the-badge&logo=azure)](https://github.com/Crooks2k)
 
 <hr>
 
